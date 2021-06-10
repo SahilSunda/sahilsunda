@@ -52,10 +52,11 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <hr>
 <p align="center" style="font-size: x-large;"><i><b>Github Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilSunda&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt=""  width="43%" /></p>
+<figure><embed src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg"></embed></figure>
+<p><img align="left" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="43%" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SahilSunda&show_icons=true&locale=en&theme=chartreuse-dark" alt="" width="50%" /></p>
 <hr>
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SahilSunda" alt="" width="70%"/></p>
+<p><img src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" height="70%" width="55%"/></p>
 <hr>
 <div>
   <p align="center" style="font-size: x-large;"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="40" />&nbsp;Github Profile Trophies</p><br>
