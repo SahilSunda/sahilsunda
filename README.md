@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=SahilSunda)
 
 <p align="center">
-  &nbsp;<img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="300" width="650"/>
-</p>
-<p align="center">
 <img src="https://img.shields.io/badge/Age-19-blue" />
 <img src="https://img.shields.io/badge/College-IIT%20Kanpur-blue" />
 <img src="https://img.shields.io/badge/Lives-India-blue" />
