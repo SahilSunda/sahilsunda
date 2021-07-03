@@ -50,14 +50,5 @@
   <hr>
 <p align="center" style="font-size: x-large;"><i><b>Github Activeness</b></i></p>
 <figure><embed src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg"></embed></figure>
-<p><img align="left" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="43%" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=SahilSunda&show_icons=true&locale=en&theme=chartreuse-dark" alt="" width="50%" /></p>
-<hr>
-<p><img src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" height="70%" width="55%"/></p>
-<hr>
-<div>
-  <p align="center" style="font-size: x-large;"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="40" />&nbsp;Github Profile Trophies</p><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilSunda&theme=juicyfresh&no-bg=true" width="1000px"/>
-</div>
-<br>
-Ask me anything <a href="https://github.com/SahilSunda/Sahil/issues"><b>here</b></a>
+<p><img align="left" src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" width="52%" /></p>
+<p>&nbsp;<img align="right" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="43%" /></p>
