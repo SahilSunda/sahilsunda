@@ -50,5 +50,5 @@
   <hr>
 <p align="center" style="font-size: x-large;"><i><b>Github Activeness</b></i></p>
 <figure><embed src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg"></embed></figure>
-<p><img align="left" src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" width="52%" /></p>
-<p>&nbsp;<img align="right" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="43%" /></p>
+<p><img align="left" src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" width="48%" /></p>
+<p>&nbsp;<img align="right" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="38%" /></p>
