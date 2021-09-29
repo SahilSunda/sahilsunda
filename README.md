@@ -17,18 +17,18 @@
 </p>
 <p align="center">
   <em>
-    Hello, I am Sahil, <b>second year</b> undergraduate from <a href="https://www.iitk.ac.in/"> <b>IIT Kanpur</b></a>. <br>
+    Hello, I am Sahil, <b>third year</b> undergraduate from <a href="https://www.iitk.ac.in/"> <b>IIT Kanpur</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
   </em> <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><b><i align="center">"Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<img align="right" width=400px height=260px alt="side_sticker" src="https://media.giphy.com/media/2dmiD02aM9zX3Gw2oS/giphy.gif" />
+
+<img align="right" width=470px height=290px alt="side_sticker" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;ABOUT ME</b>
 <br><br>
 ✔ 
-✔ Completed Projects & Internship : <br><b><br>* Crop Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Data Analysis in Criminal Justice <br>* SPO App Development <br>* Web Developer Intern at TRPWS </b><br><br>
-✔ I’m looking to collaborate with any **Open - Source projects**<hr>
+✔ Completed Projects & Internship : <br><b><br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -47,8 +47,7 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> </code>
   <hr>
-<p align="center" style="font-size: x-large;"><i><b>Github Activeness</b></i></p>
-<figure><embed src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg"></embed></figure>
-<p><img align="left" src="https://wakatime.com/share/@SahilSunda/a3b5be11-9329-4a4e-9399-b16f14c83b61.svg" alt="" width="48%" /></p>
-<p>&nbsp;<img align="right" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" alt=""  width="38%" /></p>
+<p>&nbsp;<img align="right" src="" alt=""  width="38%" /></p>
