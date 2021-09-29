@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><b><i align="center">"Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
-<img align="right" width=470px height=290px alt="side_sticker" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" />
+<img align="right" width=450px height=290px alt="side_sticker" src="https://wakatime.com/share/@SahilSunda/f165e854-2eeb-434e-992d-65c167f00899.svg" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;ABOUT ME</b>
 <br><br>
