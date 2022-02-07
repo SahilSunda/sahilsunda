@@ -9,7 +9,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sahil-sunda/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin_sahil" height="30" width="40" /></a>
-<a href="https://twitter.com/SahilSunda8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="twitter_sahil" height="30" width="40" /></a>
+<a href="https://twitter.com/SahilSunda8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter_sahil" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahil.sunda_1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_sahil" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013441119502" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="fb_sahil" height="30" width="40" /></a>
  <a href = "mailto: sahilsundaiit@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
