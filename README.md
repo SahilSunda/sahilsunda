@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;ABOUT ME</b>
 <br><br>
 ✔ 
-✔ Projects & Internship : <br><b><br>* Software Engineer Intern at Zevi <br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Software Developer Intern at Geowiz Consultancy <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
+✔ Projects & Internship : <br><b><br>* Software Engineer Intern at Zevi <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Software Developer Intern at Geowiz Consultancy <br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
