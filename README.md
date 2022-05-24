@@ -8,9 +8,9 @@
 <h1 align="center" > Sahil </h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sahil-sunda/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin_sahil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-sunda/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin_sahil" height="30" width="40" /></a>
 <a href="https://twitter.com/SahilSunda8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter_sahil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahil.sunda_1/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_sahil" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sahil.sunda_1/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="insta_sahil" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100013441119502" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="fb_sahil" height="30" width="40" /></a>
  <a href = "mailto: sahilsundaiit@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;ABOUT ME</b>
 <br><br>
 ✔ 
-✔ Projects & Internship : <br><b><br>* Software Engineer Intern at Zevi <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Software Developer Intern at Geowiz Consultancy <br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
+✔ Projects & Internship : <br><b><br>* Technical Intern at Dr Reddy's Laboratories <br>* Microsoft Cybersecurity Engage <br>* Software Engineer Intern at Zevi <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Software Developer Intern at Geowiz Consultancy <br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -40,7 +40,10 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
