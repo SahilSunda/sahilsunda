@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <em>
-    Hello, I am Sahil, <b>third year</b> undergraduate from <a href="https://www.iitk.ac.in/"> <b>IIT Kanpur</b></a>. <br>
+    Hello, I'm Sahil, <b>final year</b> undergraduate from <a href="https://www.iitk.ac.in/"> <b>IIT Kanpur</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
   </em> <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><b><i align="center">"Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -28,7 +28,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;ABOUT ME</b>
 <br><br>
 ✔ 
-✔ Projects & Internship : <br><b><br>* Technical Intern at Dr Reddy's Laboratories <br>* Microsoft Cybersecurity Engage <br>* Software Engineer Intern at Zevi <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Software Developer Intern at Geowiz Consultancy <br>* UG Researcher at C3iHub <br>* Crop Detection using Machine Learning <br>* Data Analysis in Criminal Justice <br>* Web Developer Intern at TRPWS <br>* SPO App Development </b><br><br>
+✔ Projects & Internship : <br><b><br>* Technical Intern at Dr Reddy's Laboratories <br>* Microsoft Cybersecurity Engage'22 <br>* Software Engineer Intern at Zevi AI <br>* Software Developer Intern at Betalectic IT Projects Ltd <br>* Software Developer Intern at Geowiz Consultancy <br>* UG Researcher at C3iHub <br>* Stock Price Prediction <br>* Crop Detection using Machine Learning <br>* Data Analysis in Criminal Justice <br>* COVID-19 Tweets Sentiment Analysis <br>* Web Developer Intern at TRPWS </b><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
